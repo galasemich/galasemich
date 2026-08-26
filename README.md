@@ -17,7 +17,7 @@ Me importa particularmente el código limpio y eficiente: así como una buena po
 
 ## Actualmente...
 Quiero seguir formándome en desarrollo web y por ese motivo empecé a aprender <span style="color: red">React</span>, para tener el trayecto de full-stack completo. Más a título personal y por curiosidad intelectual, me gustaría también aprender C y algo de desarrollo de videojuegos. 
-<span style="color:blue;font-weight:bold">blue</span>
+
 En estos momentos, estoy buscando mi **primera experiencia profesional real** como desarrolladora backend. 
 
 <!--
