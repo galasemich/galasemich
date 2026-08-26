@@ -6,7 +6,7 @@ Me formé académicamente en Letras, con orientación en Lingüística. Estos es
 Empecé mi recorrido aprendiendo Python, quizás el lenguaje de programación más amigable para empezar. Luego seguí con SQL, aprendí HTML y CSS y finalmente JavaScript, para desarrollar backend con Node.js. 
 
 ## Qué hice
-Encore es quizás el proyecto que más me enorgullece: es un pequeño framework minimalista que utiliza el módulo http como base para levantar servidores. Mi idea con Encore era *dilucidar qué hay detrás* de un framework como Express, por ejemplo. Desarrollar Encore fue una experiencia interesantístima porque así pude entender cabalmente todos los procesos que un framework abstrae por nosotros. 
+Encore es quizás el proyecto que más me enorgullece: es un pequeño framework minimalista que utiliza el módulo http como base para levantar servidores. Mi idea con Encore era *dilucidar qué hay detrás* de un framework como Express, por ejemplo. Desarrollar Encore fue una experiencia interesantístima porque así pude entender cabalmente varios de los procesos que un framework abstrae por nosotros. 
 
 Mi primer proyecto web completo es Scriptorium, una aplicación para registrar y trackear lecturas. 
 
@@ -16,7 +16,7 @@ Luego seguí con un proyecto colaborativo, Presupuestar, en el que trabajé con 
 Me importa particularmente el código limpio y eficiente: así como una buena poesía gana en su brevedad y síntesis, una buena porción de código ganará cuando cada línea tenga un propósito claro y vaya en pos de un objetivo. Así me gusta encarar el desarrollo: desmenuzando el problema, diseñando pasos a seguir y tratando de escribir código prolijo, limpio y fácil de mantener. Siempre es posible mejorar, y eso es una de las cosas más lindas de la programación. 
 
 ## Actualmente...
-Quiero seguir formándome en desarrollo web y por ese motivo empecé a aprender React, para tener el trayecto de full-stack completo. Más a título personal y por curiosidad intelectual, me gustaría también aprender C y algo de desarrollo de videojuegos. 
+Quiero seguir formándome en desarrollo web y por ese motivo empecé a aprender <span style="color: blue">React</span>, para tener el trayecto de full-stack completo. Más a título personal y por curiosidad intelectual, me gustaría también aprender C y algo de desarrollo de videojuegos. 
 
 En estos momentos, estoy buscando mi **primera experiencia profesional real** como desarrolladora backend. 
 
