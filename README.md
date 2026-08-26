@@ -20,6 +20,9 @@ Quiero seguir formándome en desarrollo web y por ese motivo empecé a aprender 
 
 En estos momentos, estoy buscando mi **primera experiencia profesional real** como desarrolladora backend. 
 
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=galasemich.galasemich)
+
 <!--
 **galasemich/galasemich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
