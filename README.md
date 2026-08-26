@@ -19,12 +19,6 @@ Me importa particularmente el código limpio y eficiente: así como una buena po
 Quiero seguir formándome en desarrollo web y por ese motivo empecé a aprender <span style="color: red">React</span>, para tener el trayecto de full-stack completo. Más a título personal y por curiosidad intelectual, me gustaría también aprender C y algo de desarrollo de videojuegos. 
 
 En estos momentos, estoy buscando mi **primera experiencia profesional real** como desarrolladora backend. 
-
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=galasemich.galasemich)
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=galasemich&show_icons=true&theme=radical)
-
-
 <!--
 **galasemich/galasemich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
