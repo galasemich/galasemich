@@ -22,6 +22,8 @@ En estos momentos, estoy buscando mi **primera experiencia profesional real** co
 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=galasemich.galasemich)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=galasemich&show_icons=true&theme=radical)
+
 
 <!--
 **galasemich/galasemich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
